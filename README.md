@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Union-Find
 |  |
 | ------- |
@@ -35,4 +37,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
