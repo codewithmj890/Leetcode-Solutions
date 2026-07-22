@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Union-Find
@@ -59,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0133-clone-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
