@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0128-longest-consecutive-sequence](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Hash Table
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0647-palindromic-substrings](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
