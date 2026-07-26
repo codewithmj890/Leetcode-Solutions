@@ -1,3 +1,31 @@
+import java.util.List;
+import java.util.ArrayList;
+import java.util.Arrays;
+
+class Main {
+    public static void main(String[] args) {
+        Solution solver = new Solution();
+        
+        // Test Case 1: Multiple triplets and duplicates
+        int[] test1 = {-1, 0, 1, 2, -1, -4};
+        
+        // Test Case 2: Array of all zeros
+        int[] test2 = {0, 0, 0, 0};
+        
+        // Test Case 3: No possible triplets
+        int[] test3 = {1, 2, -2, -1};
+        
+        System.out.println("Test 1: " + solver.threeSum(test1)); 
+        // Expected: [[-1, -1, 2], [-1, 0, 1]]
+        
+        System.out.println("Test 2: " + solver.threeSum(test2)); 
+        // Expected: [[0, 0, 0]]
+        
+        System.out.println("Test 3: " + solver.threeSum(test3)); 
+        // Expected: []
+    }
+}
+
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();
@@ -5,10 +33,8 @@ class Solution {
         int n = nums.length;
 
         for (int i = 0; i < n - 2; i++) {
-            // Skip duplicate values for i
             if (i > 0 && nums[i] == nums[i - 1]) continue;
 
-            // Small optimization: if smallest possible sum > 0, stop
             if (nums[i] > 0) break;
 
             int left = i + 1, right = n - 1;
@@ -20,9 +46,7 @@ class Solution {
                 if (sum == target) {
                     result.add(Arrays.asList(nums[i], nums[left], nums[right]));
 
-                    // Skip duplicates for left
                     while (left < right && nums[left] == nums[left + 1]) left++;
-                    // Skip duplicates for right
                     while (left < right && nums[right] == nums[right - 1]) right--;
 
                     left++;
