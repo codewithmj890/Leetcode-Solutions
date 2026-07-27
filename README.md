@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0133-clone-graph) |
+| [0572-subtree-of-another-tree](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -101,4 +102,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0139-word-break) |
+## Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
