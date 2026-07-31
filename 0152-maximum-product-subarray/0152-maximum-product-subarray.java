@@ -1,3 +1,22 @@
+class Main {
+    public static void main(String[] args) {
+        Solution solver = new Solution();
+        
+        // Test 1: Standard case. Expected: 6 (from 2 * 3)
+        int[] test1 = {2, 3, -2, 4};
+        
+        // Test 2: The double negative case. Expected: 24
+        int[] test2 = {-2, 3, -4};
+        
+        // Test 3: The zero reset case. Expected: 2
+        int[] test3 = {0, 2};
+        
+        System.out.println("Test 1 Result: " + solver.maxProduct(test1));
+        System.out.println("Test 2 Result: " + solver.maxProduct(test2));
+        System.out.println("Test 3 Result: " + solver.maxProduct(test3));
+    }
+}
+
 class Solution {
     public int maxProduct(int[] nums) {
         int maxEndingHere = nums[0];
