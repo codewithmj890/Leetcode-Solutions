@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0143-reorder-list) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
