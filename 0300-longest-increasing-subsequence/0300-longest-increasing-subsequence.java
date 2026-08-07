@@ -1,11 +1,31 @@
+import java.util.Arrays;
+
+class Main {
+    public static void main(String[] args) {
+        Solution solver = new Solution();
+        
+        // Test 1: The standard example
+        int[] test1 = {10, 9, 2, 5, 3, 7, 101, 18};
+        System.out.println("Result 1: " + solver.lengthOfLIS(test1)); // Expected: 4
+        
+        // Test 2: An array of all identical numbers
+        int[] test2 = {7, 7, 7, 7, 7, 7, 7};
+        System.out.println("Result 2: " + solver.lengthOfLIS(test2)); // Expected: 1
+        
+        // Test 3: A strictly decreasing array
+        int[] test3 = {5, 4, 3, 2, 1};
+        System.out.println("Result 3: " + solver.lengthOfLIS(test3)); // Expected: 1
+    }
+}
+
 class Solution {
     public int lengthOfLIS(int[] nums) {
-        int[] tails = new int[nums.length]; // tails[i] = smallest possible tail of an increasing subsequence of length i+1
-        int size = 0; // current length of the LIS found so far
+        int[] tails = new int[nums.length]; 
+        int size = 0; 
 
         for (int num : nums) {
             int lo = 0, hi = size;
-            // binary search: find leftmost index where tails[idx] >= num
+            
             while (lo < hi) {
                 int mid = lo + (hi - lo) / 2;
                 if (tails[mid] < num) {
@@ -14,7 +34,8 @@ class Solution {
                     hi = mid;
                 }
             }
-            tails[lo] = num; // overwrite (or extend if lo == size)
+            
+            tails[lo] = num; 
             if (lo == size) size++;
         }
 
