@@ -1,8 +1,37 @@
+import java.util.Arrays;
+
+class Main {
+    public static void main(String[] args) {
+        Solution solver = new Solution();
+        
+        int[][] matrix = {
+            {1, 2, 3},
+            {4, 5, 6},
+            {7, 8, 9}
+        };
+        
+        System.out.println("Original Matrix:");
+        printMatrix(matrix);
+        
+        solver.rotate(matrix);
+        
+        System.out.println("\nRotated Matrix (90 degrees clockwise):");
+        printMatrix(matrix);
+    }
+    
+    // Helper method to print the 2D array nicely
+    public static void printMatrix(int[][] matrix) {
+        for (int i = 0; i < matrix.length; i++) {
+            System.out.println(Arrays.toString(matrix[i]));
+        }
+    }
+}
+
 class Solution {
     public void rotate(int[][] matrix) {
         int n = matrix.length;
 
-        // Step 1: Transpose (swap matrix[i][j] with matrix[j][i])
+        // Step 1: Transpose 
         for (int i = 0; i < n; i++) {
             for (int j = i + 1; j < n; j++) {
                 int temp = matrix[i][j];
