@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Union-Find
 |  |
 | ------- |
@@ -41,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0424-longest-repeating-character-replacement](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/codewithmj890/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Two Pointers
 |  |
 | ------- |
